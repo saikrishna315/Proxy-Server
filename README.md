@@ -1,1 +1,1 @@
-# Proxy-Server
+This project is implementation of a proxy server where a user can access the data normally through the server and if he wants to access the restricted page then proxy server redirects the user to that page by overcoming the restriction.
